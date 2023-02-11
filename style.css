@@ -1,0 +1,13 @@
+body {
+    background-color: lightcoral;
+}
+
+#score {
+    font-size: 15px;
+    float:left;
+}
+
+#timer {
+    font-size: 15px;
+    float:right;
+}
